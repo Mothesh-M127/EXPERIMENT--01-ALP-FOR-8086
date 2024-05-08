@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : Manoj Kumar S
-### Roll no : 212221230056
+### Name : Mothesh M 
+### Roll no : 212221230066
 ### Date of experiment :
 
 
